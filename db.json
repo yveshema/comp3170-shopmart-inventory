@@ -41,38 +41,6 @@
             "image_url": "https://i.imgur.com/yVeIeDa.jpeg"
           },
           {
-            "id": 29,
-            "title": "Mid-Century Modern Wooden Dining Table",
-            "price": 24,
-            "description": "Elevate your dining room with this sleek Mid-Century Modern dining table, featuring an elegant walnut finish and tapered legs for a timeless aesthetic. Its sturdy wood construction and minimalist design make it a versatile piece that fits with a variety of decor styles. Perfect for intimate dinners or as a stylish spot for your morning coffee.",
-            "category": 3,
-            "image_url": "https://i.imgur.com/DMQHGA0.jpeg"
-          },
-          {
-            "id": 30,
-            "title": "Elegant Golden-Base Stone Top Dining Table",
-            "price": 66,
-            "description": "Elevate your dining space with this luxurious table, featuring a sturdy golden metal base with an intricate rod design that provides both stability and chic elegance. The smooth stone top in a sleek round shape offers a robust surface for your dining pleasure. Perfect for both everyday meals and special occasions, this table easily complements any modern or glam decor.",
-            "category": 3,
-            "image_url": "https://i.imgur.com/NWIJKUj.jpeg"
-          },
-          {
-            "id": 36,
-            "title": "Rainbow Glitter High Heels",
-            "price": 39,
-            "description": "Step into the spotlight with these eye-catching rainbow glitter high heels. Designed to dazzle, each shoe boasts a kaleidoscope of shimmering colors that catch and reflect light with every step. Perfect for special occasions or a night out, these stunners are sure to turn heads and elevate any ensemble.",
-            "category": 4,
-            "image_url": "https://i.imgur.com/62gGzeF.jpeg"
-          },
-          {
-            "id": 37,
-            "title": "Chic Summer Denim Espadrille Sandals",
-            "price": 33,
-            "description": "Step into summer with style in our denim espadrille sandals. Featuring a braided jute sole for a classic touch and adjustable denim straps for a snug fit, these sandals offer both comfort and a fashionable edge. The easy slip-on design ensures convenience for beach days or casual outings.",
-            "category": 4,
-            "image_url": "https://i.imgur.com/9qrmE1b.jpeg"
-          },
-          {
             "id": 46,
             "title": "Sleek All-Terrain Go-Kart",
             "price": 37,
