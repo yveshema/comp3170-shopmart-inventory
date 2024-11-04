@@ -7,7 +7,7 @@
           "description": "Discover the perfect blend of style and comfort with our Classic Comfort Fit Joggers. These versatile black joggers feature a soft elastic waistband with an adjustable drawstring, two side pockets, and ribbed ankle cuffs for a secure fit. Made from a lightweight and durable fabric, they are ideal for both active days and relaxed lounging.",
           "category": 1,
           "image_url": "https://i.imgur.com/ZKGofuB.jpeg",
-            "quantity": 1
+            "quantity": 10
         },
         {
           "id": 2,
@@ -16,7 +16,7 @@
           "description": "Experience the perfect blend of comfort and style with our Classic Comfort Drawstring Joggers. Designed for a relaxed fit, these joggers feature a soft, stretchable fabric, convenient side pockets, and an adjustable drawstring waist with elegant gold-tipped detailing. Ideal for lounging or running errands, these pants will quickly become your go-to for effortless, casual wear.",
           "category": 1,
           "image_url": "https://i.imgur.com/mp3rUty.jpeg",
-            "quantity": 1
+            "quantity": 5
         },
         {
           "id": 3,
@@ -25,7 +25,7 @@
           "description": "Experience ultimate comfort with our red jogger sweatpants, perfect for both workout sessions and lounging around the house. Made with soft, durable fabric, these joggers feature a snug waistband, adjustable drawstring, and practical side pockets for functionality. Their tapered design and elastic cuffs offer a modern fit that keeps you looking stylish on the go.",
           "category": 1,
           "image_url": "https://i.imgur.com/9LFjwpI.jpeg",
-            "quantity": 1
+            "quantity": 6
         },
         {
             "id": 18,
@@ -34,7 +34,7 @@
             "description": "Elevate your gaming experience with this state-of-the-art wireless controller, featuring a crisp white base with vibrant orange accents. Designed for precision play, the ergonomic shape and responsive buttons provide maximum comfort and control for endless hours of gameplay. Compatible with multiple gaming platforms, this controller is a must-have for any serious gamer looking to enhance their setup.",
             "category": 2,
             "image_url": "https://i.imgur.com/ZANVnHE.jpeg",
-            "quantity": 1
+            "quantity": 3
         },
           {
             "id": 19,
@@ -52,7 +52,7 @@
             "description": "Experience the thrill of outdoor adventures with our Sleek All-Terrain Go-Kart, featuring a durable frame, comfortable racing seat, and robust, large-tread tires perfect for handling a variety of terrains. Designed for fun-seekers of all ages, this go-kart is an ideal choice for backyard racing or exploring local trails.",
             "category": 5,
             "image_url": "https://i.imgur.com/Ex5x3IU.jpg",
-              "quantity": 1
+              "quantity": 2
           }
     ],
     "categories": [
